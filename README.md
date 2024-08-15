@@ -17,8 +17,8 @@ The data used in this paper can be downloaded from:
 -   UCI Pendigits (https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
 -   UCI Optdigits (https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
 
-## Run
+## Example command
 
-```bash
-python main.py
+```
+python main.py -data_dir dataset/letter/missing_ratio/ -batch_size 1474 -k 6 -epochs 1000 -iter_num 5
 ```
