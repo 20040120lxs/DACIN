@@ -1,0 +1,6 @@
+munkres==1.1.4
+numpy==1.26.1
+scikit-learn==1.5.0
+scipy==1.13.1
+tensorboard==2.15.1
+tensorflow==2.15.0
